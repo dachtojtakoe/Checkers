@@ -1,0 +1,13 @@
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\bin\Debug\MyCheckers.exe.config
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\bin\Debug\MyCheckers.exe
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\bin\Debug\MyCheckers.pdb
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.csprojAssemblyReference.cache
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.Form1.resources
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.Properties.Resources.resources
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.exe
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.pdb
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.Menu.resources
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.Info.resources
+C:\Users\vadim\source\repos\MyCheckers\MyCheckers\obj\Debug\MyCheckers.EndGame.resources
